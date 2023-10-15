@@ -2,36 +2,38 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PasqualiRafael/Ivy-grupo-wory/blob/main/README.en.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PasqualiRafael/Ivy-grupo-wory)
 
-<h1 align="center">
-  💻<br>LandPage - Grupo Ivory
-</h1>
+# <h1 align="center">
 
-![Resultado final do projeto](assets/img/preview/preview.png)
+# 💻<br>LandPage - Grupo Ivory
 
-<h4 align="center"><a href="https://grupo-ivory.vercel.app/">Clique para visitar o site</a></h4>
+# </h1>
+
+![Final Project Result](assets/img/preview/preview.png)
+
+## <h4 align="center"><a href="https://grupo-ivory.vercel.app/">Click to Visit the Website</a></h4>
 
 ## 📚 LandPage
 
-O site foi desenvolvido com um design da comunidade, como meio de portifólio.
+The website was developed with a community design, serving as a portfolio.
 
 ---
 
-## 💼 Tecnologias utilizadas
+## 💼 Technologies Used
 
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+For the development of this website, I used the following technologies:
 
 -   HTML;
 -   Sass;
 
 ---
 
-## Próximos passos
+## Next Steps
 
 -   [x] Add index
 -   [x] Add README
--   [ ] Add responsividade para Celulares
--   [x] Add responsividade para Tablet
--   [ ] Melhorar o SEO
+-   [ ] Add responsiveness for mobile devices
+-   [x] Add responsiveness for tablets
+-   [ ] Improve SEO
 
 ---
 
