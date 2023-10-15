@@ -1,5 +1,5 @@
 .wrapper-banner {
-    background-image: url("/assets/img/pessoas-escrito-564-mob.png");
+    background-image: url("img/pessoas-escrito-564-mob.png");
     background-repeat: no-repeat;
 
     min-width: 60rem;
@@ -44,7 +44,7 @@
 
 @media screen and (min-width: 768px) {
     .wrapper-banner {
-        background-image: url("/assets/img/pessoas-escrito-800-dk.png");
+        background-image: url("img/pessoas-escrito-800-dk.png");
         background-position: right;
 
         min-width: 76.8rem;

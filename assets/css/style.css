@@ -230,7 +230,7 @@ Files inside this folder can contain global styles used in the project.
   }
 }
 .wrapper-banner {
-  background-image: url("/assets/img/pessoas-escrito-564-mob.png");
+  background-image: url("img/pessoas-escrito-564-mob.png");
   background-repeat: no-repeat;
   min-width: 60rem;
   min-height: 34.3rem;
@@ -272,7 +272,7 @@ Files inside this folder can contain global styles used in the project.
 
 @media screen and (min-width: 768px) {
   .wrapper-banner {
-    background-image: url("/assets/img/pessoas-escrito-800-dk.png");
+    background-image: url("img/pessoas-escrito-800-dk.png");
     background-position: right;
     min-width: 76.8rem;
   }
@@ -282,7 +282,7 @@ Files inside this folder can contain global styles used in the project.
   }
 }
 .wrapper-middle {
-  background-image: url("/assets/img/mid-site-mob.png");
+  background-image: url("img/mid-site-mob.png");
   background-repeat: no-repeat;
   min-width: 60rem;
   min-height: 44.4rem;
@@ -328,7 +328,7 @@ Files inside this folder can contain global styles used in the project.
 
 @media screen and (min-width: 768px) {
   .wrapper-middle {
-    background-image: url("/assets/img/mid-site-dk.png");
+    background-image: url("img/mid-site-dk.png");
     background-repeat: no-repeat;
     background-position: right;
     min-width: 76.8rem;
@@ -339,7 +339,7 @@ Files inside this folder can contain global styles used in the project.
   }
 }
 .wrapper-lower {
-  background-image: url("/assets/img/lower-site-mob.png");
+  background-image: url("img/lower-site-mob.png");
   background-repeat: no-repeat;
   min-width: 60rem;
   min-height: 31.8rem;
@@ -384,7 +384,7 @@ Files inside this folder can contain global styles used in the project.
 
 @media screen and (min-width: 768px) {
   .wrapper-lower {
-    background-image: url("/assets/img/lower-site-dk.png");
+    background-image: url("img/lower-site-dk.png");
     background-repeat: no-repeat;
     background-position: right;
     min-width: 76.8rem;
