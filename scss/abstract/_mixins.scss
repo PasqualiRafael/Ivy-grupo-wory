@@ -1,0 +1,26 @@
+@mixin test($w, $h) {
+    width: $w;
+    height: $h;
+    background-color: lightgray;
+}
+
+@mixin section-default($color-container, $h) {
+    .default-bkg {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+
+        width: auto;
+        height: $h;
+
+        background-color: $--clr-primary;
+
+        .container-default {
+            width: 1040px;
+            height: $h;
+
+            background-color: $color-container;
+        }
+    }
+}

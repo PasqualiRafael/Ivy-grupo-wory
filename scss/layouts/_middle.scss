@@ -1,0 +1,72 @@
+.wrapper-middle {
+    background-image: url("/assets/img/mid-site-mob.png");
+    background-repeat: no-repeat;
+
+    min-width: 60rem;
+    min-height: 44.4rem;
+
+    display: flex;
+    justify-content: flex-end;
+
+    .text-middle {
+        display: flex;
+        flex-direction: column;
+
+        max-width: 30rem;
+
+        gap: 1.3rem;
+
+        margin-top: 4rem;
+
+        font-family: $--font-primary;
+        font-weight: 600;
+        color: white;
+
+        h2 {
+            font-size: 3.2rem;
+            color: $--clr-font;
+        }
+
+        p {
+            font-family: $--font-secondary;
+            font-weight: 500;
+            font-size: 1.2rem;
+            color: $--clr-black;
+        }
+
+        a {
+            font-size: 1.6rem;
+            text-align: center;
+
+            width: 23rem;
+            margin-left: 10%;
+            padding: 1rem 0;
+
+            border-radius: 1rem;
+            background-color: $--clr-btn;
+            color: $--clr-white;
+            text-decoration: none;
+            transition: 0.4s;
+        }
+
+        a:hover {
+            background-color: hsla(0, 0%, 100%, 0.693);
+            color: rgb(0, 0, 0);
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .wrapper-middle {
+        background-image: url("/assets/img/mid-site-dk.png");
+        background-repeat: no-repeat;
+        background-position: right;
+
+        min-width: 76.8rem;
+
+        .text-middle {
+            margin-top: 5rem;
+            margin-right: 8.5rem;
+        }
+    }
+}

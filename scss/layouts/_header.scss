@@ -1,0 +1,36 @@
+.container-top {
+    background-color: $--clr-background;
+}
+
+.wrapper-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 60rem;
+    min-height: 7.5rem;
+
+    a,
+    img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .hashtag-top {
+        margin-top: 20px;
+    }
+    a {
+        width: 5rem;
+        height: 5rem;
+
+        background-color: $--clr-white;
+        border-radius: 2.5rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .wrapper-top {
+        justify-content: space-evenly;
+        gap: 47rem;
+        min-width: 80rem;
+    }
+}

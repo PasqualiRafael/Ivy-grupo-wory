@@ -1,0 +1,11 @@
+.wrapper-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10rem 10rem;
+    gap: 4rem;
+    h3 {
+        font-size: 70px;
+    }
+}

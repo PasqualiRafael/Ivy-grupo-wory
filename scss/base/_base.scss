@@ -1,0 +1,35 @@
+html {
+    font-size: 62.5%;
+    background-color: $--clr-black;
+}
+
+body header {
+    font-family: $--font-primary;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 2.2rem;
+
+    width: auto;
+    margin: 0 auto;
+
+    box-sizing: border-box;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    background-color: $--clr-black;
+}
+
+@media screen and (min-width: 768px) {
+}
